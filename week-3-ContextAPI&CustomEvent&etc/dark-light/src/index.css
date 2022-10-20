@@ -1,0 +1,64 @@
+::-webkit-scrollbar {
+  display: none;
+}
+.canvas {
+  background-color: whitesmoke;
+  padding-bottom: 20px;
+}
+.canvas-dark {
+  background-color: rgb(58, 58, 58);
+  padding-bottom: 20px;
+}
+.overlay {
+  background-color: rgba(53, 53, 53, 0.726);
+  min-height: 85vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.overlay-dark {
+  background-color: rgba(17, 17, 17, 0.719);
+  min-height: 85vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.about-details {
+  margin-top: -150px;
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  max-width: 80%;
+}
+.about-details-dark {
+  margin-top: -150px;
+  background-color: rgb(51, 51, 51);
+  color: white;
+  padding: 20px;
+  border-radius: 5px;
+  max-width: 80%;
+}
+.fa {
+  font-size: 20px;
+  margin-left: 15px;
+}
+
+.btn-floating {
+  width: 20%;
+  align-items: center;
+  justify-content: center;
+  margin-left: 100px;
+  margin-top: 50px;
+  position:relative;
+  bottom: 15px;
+  right: 25px;
+  background-color: black;
+  color: rgb(255, 0, 0);
+  border-radius: 50%;
+}
+.btn-floating:hover {
+  background-color: black;
+  color: rgb(51, 255, 0);
+}
