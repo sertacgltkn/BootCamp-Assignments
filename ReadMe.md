@@ -13,6 +13,4 @@
 <h2>        <li>JavaScript Custom Event</li> </h2>
 <h2> WEEK - 4 - <li>Pages with React Router DOM v6 </li> <h2>
 <h2>        <li>Light/Dark Theme with Context Api</li> </h2>
-<h2> WEEK - 5 -  <h2>
-<h2> WEEK - 6 -  <h2>
-<h2> WEEK - 7 -  <h2>
+<h2> WEEK - 5 - useMemo & useCallback  <h2>
